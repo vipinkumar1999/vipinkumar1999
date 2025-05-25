@@ -10,8 +10,8 @@ I’m passionate about transforming raw data into powerful, actionable insights.
 
 📬 Reach Me:  
 📧 vipin.k.karthikeyan@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/your-link)  
-📂 [Portfolio](https://yourportfolio.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/vipin-kumar21/)
+📂 [Portfolio](https://vipinkumar1999.github.io/portfolio/)  
 
 ---
 

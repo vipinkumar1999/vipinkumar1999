@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Vipin Kumar Karthikeyan
 
-<!--
-**vipinkumar1999/vipinkumar1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer | ML Enthusiast | Power BI Expert | Cloud Native Developer**
 
-Here are some ideas to get you started:
+I’m passionate about transforming raw data into powerful, actionable insights. I enjoy solving complex data challenges and building scalable data infrastructure. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skilled in **Python, SQL, PySpark, Azure, Power BI, Databricks, ADF, and ML Pipelines**  
+📊 Strong focus on **Data Engineering, Business Analytics, and Machine Learning**  
+🚀 Specialization: **Cloud-based Data Solutions and Real-time Reporting**
+
+📬 Reach Me:  
+📧 vipin.k.karthikeyan@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/your-link)  
+📂 [Portfolio](https://yourportfolio.com)  
+
+---
+
+> “Turning data into decisions.”
+
